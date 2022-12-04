@@ -1,5 +1,5 @@
 window.document.write('manipulano pela primera vez doido')
-//window.alert('salve doido (:')
+window.alert('salve doido (:')
 
 var x = window.document.getElementById('main')
 x.style.backgroundColor = '#fff'
